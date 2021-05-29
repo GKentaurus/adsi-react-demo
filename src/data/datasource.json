@@ -1,0 +1,34 @@
+{
+  "registries": [
+    {
+      "firstname": "Carlos",
+      "lastname": "Moreno",
+      "document": 1016698756
+    },
+    {
+      "firstname": "Elber",
+      "lastname": "Gonzales",
+      "document": 1236548799
+    },
+    {
+      "firstname": "Jim",
+      "lastname": "Moriarty",
+      "document": 9876543214
+    },
+    {
+      "firstname": "Sherlock",
+      "lastname": "Holmes",
+      "document": 4561237895
+    },
+    {
+      "firstname": "James",
+      "lastname": "Watson",
+      "document": 7986453132
+    },
+    {
+      "firstname": "Microft",
+      "lastname": "Holmes",
+      "document": 1016698756
+    }
+  ]
+}
