@@ -9,6 +9,14 @@ function App() {
         <h1>Hola mundo, los saluda Carlos</h1>
         <h2><code>(GKentaurus)</code></h2>
         <h5>Bye...</h5>
+        <a
+          className="App-link"
+          href="https://github.com/GKentaurus/adsi-react-demo"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Ir al repositorio
+        </a>
       </header>
     </div>
   );
